@@ -1,0 +1,31 @@
+body{
+    background: linear-gradient(90deg, red, blue);
+}
+*{
+    font-family: sans-serif;
+}
+#content{
+    background-color: #ffff;
+    text-align: center;
+    width: 400px;
+    margin: auto;
+    padding: 20px;
+    border-radius: 5px;
+
+}
+#eightBall{
+    background: black;
+    width: 350px;
+    height: 350px;
+    color: white;
+    margin: auto;
+    border-radius: 100%;
+    margin-top: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#answer{
+    font-size: 25px;
+}
